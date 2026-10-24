@@ -13,7 +13,7 @@ CRASH4_SOURCE = Path(r"F:\Crash-modding\Crash-games\Crash Bandicoot 4\Lava\Conte
 # Tool paths: edit these values for your setup.
 QUICKBMS_EXE = Path(r"F:\Crash-modding\tools\quickbms_win\quickbms.exe")
 NST_BMS_SCRIPT = Path(r"F:\Crash-modding\tools\quickbms_win\marvel_ultimate_alliance_2.bms")
-UNREALPAK_EXE: Path(r"F:\Crash-modding\tools\UnrealPakTool\UnrealPak.exe")
+UNREALPAK_EXE = Path(r"F:\Crash-modding\tools\UnrealPakTool\UnrealPak.exe")
 
 # Output folders
 NST_OUTPUT = Path(r"F:\Crash-modding\paks\nst")
